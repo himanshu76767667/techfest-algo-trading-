@@ -1,0 +1,6 @@
+backtesting
+tvdatafeed
+pandas
+numpy
+jupyterlab
+matplotlib
